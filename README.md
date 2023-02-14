@@ -14,4 +14,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matyhopik&show_icons=true&locale=en" alt="matyhopik" /></p>
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=matyhopik&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matyhopik&show_icons=true&locale=en&layout=compact" alt="matyhopik" /></p>
