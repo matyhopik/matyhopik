@@ -1,5 +1,5 @@
-<h1 align="center">Ahoj 👋, Jmenuju se Matěj</h1>
-<h3 align="center">Zabívám se tvořením webů od front-endu až po back-end</h3>
+<h1 align="center">Ahoj 👋, Jmenuji se Matěj</h1>
+<h3 align="center">Tvořím webové stránky od designu přes front-end až po back-end.</h3>
 
 - 🔭 Teď zrovna pracuji na [MarthyVideo](https://github.com/matyhopik/MarthyVideo)
 
