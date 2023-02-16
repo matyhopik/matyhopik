@@ -2,7 +2,7 @@
 <h3 align="center">Tvořím webové stránky od designu přes front-end až po back-end.</h3>
 
 - 🔭 Mé projekty 
--       watchers - [web](https://watchers-ev2.pages.dev/) | [code](https://github.com/matyhopik/Watchers)
+-       <p>watchers - [web](https://watchers-ev2.pages.dev/) | [code](https://github.com/matyhopik/Watchers)</p>
 -       MarthyVideo - [code](https://watchers-ev2.pages.dev/)
 
 - 🔨 Teď zrovna pracuji na [MarthyVideo](https://github.com/matyhopik/MarthyVideo)
