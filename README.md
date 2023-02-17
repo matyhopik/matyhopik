@@ -1,4 +1,4 @@
-<h1 align="center">Ahoj 👋, Jmenuji se Matěj</h1>
+<h1 align="center">Ahoj 👋, jmenuji se Matěj</h1>
 <h3 align="center">Tvořím webové stránky od designu přes front-end až po back-end.</h3>
 
 - 🔭 Mé projekty <p>watchers - [web](https://watchers-ev2.pages.dev/) | [code](https://github.com/matyhopik/Watchers)</p><p>MarthyVideo - [code](https://github.com/matyhopik/MarthyVideo)</p>
